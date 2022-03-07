@@ -12,9 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Rat_race;
 
-namespace Maybe_Rat_Race
+namespace bibliotekDB_GUI
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -24,11 +23,6 @@ namespace Maybe_Rat_Race
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void InitializeComponent()
-        {
-            throw new NotImplementedException();
         }
     }
 }

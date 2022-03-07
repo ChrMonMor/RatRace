@@ -28,7 +28,7 @@
         </Grid.RowDefinitions>
         <!-- Here are all the combo-boxes that we have Lists for in the Racemanager_Class -->
         <StackPanel x:Name="Race_Manager_List_Stack" Grid.Row="1" Grid.Column="1" Grid.RowSpan="3">
-            <ComboBox>
+            <ComboBox x:Name="AnimalTypesList">
                 <ComboBoxItem IsSelected="True" >dan</ComboBoxItem>
                 <ComboBoxItem>man</ComboBoxItem>
                 <ComboBoxItem>han</ComboBoxItem>
@@ -36,7 +36,7 @@
                 <ComboBoxItem>kan</ComboBoxItem>
             </ComboBox>
             <ComboBox Visibility="Hidden"></ComboBox>
-            <ComboBox>
+            <ComboBox x:Name="EquipmentsList">
                 <ComboBoxItem IsSelected="True" >hun</ComboBoxItem>
                 <ComboBoxItem>tun</ComboBoxItem>
                 <ComboBoxItem>run</ComboBoxItem>
@@ -44,7 +44,7 @@
                 <ComboBoxItem>lun</ComboBoxItem>
             </ComboBox>
             <ComboBox Visibility="Hidden"></ComboBox>
-            <ComboBox>
+            <ComboBox x:Name="TracksList">
                 <ComboBoxItem IsSelected="True" >hun</ComboBoxItem>
                 <ComboBoxItem>tun</ComboBoxItem>
                 <ComboBoxItem>run</ComboBoxItem>
@@ -52,7 +52,7 @@
                 <ComboBoxItem>lun</ComboBoxItem>
             </ComboBox>
             <ComboBox Visibility="Hidden"></ComboBox>
-            <ComboBox>
+            <ComboBox x:Name="PlayersList">
                 <ComboBoxItem IsSelected="True" >hun</ComboBoxItem>
                 <ComboBoxItem>tun</ComboBoxItem>
                 <ComboBoxItem>run</ComboBoxItem>
@@ -60,7 +60,7 @@
                 <ComboBoxItem>lun</ComboBoxItem>
             </ComboBox>
             <ComboBox Visibility="Hidden"></ComboBox>
-            <ComboBox>
+            <ComboBox x:Name="RacesList">
                 <ComboBoxItem IsSelected="True" >hun</ComboBoxItem>
                 <ComboBoxItem>tun</ComboBoxItem>
                 <ComboBoxItem>run</ComboBoxItem>
@@ -68,7 +68,7 @@
                 <ComboBoxItem>lun</ComboBoxItem>
             </ComboBox>
             <ComboBox Visibility="Hidden"></ComboBox>
-            <ComboBox>
+            <ComboBox x:Name="AnimalsList">
                 <ComboBoxItem IsSelected="True" >hun</ComboBoxItem>
                 <ComboBoxItem>tun</ComboBoxItem>
                 <ComboBoxItem>run</ComboBoxItem>
@@ -76,7 +76,7 @@
                 <ComboBoxItem>lun</ComboBoxItem>
             </ComboBox>
             <ComboBox Visibility="Hidden"></ComboBox>
-            <ComboBox>
+            <ComboBox x:Name="BookmakerList">
                 <ComboBoxItem IsSelected="True" >hun</ComboBoxItem>
                 <ComboBoxItem>tun</ComboBoxItem>
                 <ComboBoxItem>run</ComboBoxItem>
@@ -90,7 +90,7 @@
         </Canvas>
         <!-- Area with all the buttons -->
         <StackPanel x:Name="Event_Buttons_Stack" Grid.Column="3" Grid.Row="2" Grid.ColumnSpan="4" Grid.RowSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Center">
-            <Button Margin="10,1,10,1" Content="[1] Start a race"/>
+            <Button x:Name="Start_A_Race" Margin="10,1,10,1" Content="[1] Start a race"/>
             <Button Margin="10,1,10,1" Content="[2] View the last race report"/>
             <Button Margin="10,1,10,1" Content="[3] Create a new race"/>
             <Button Margin="10,1,10,1" Content="[4] Create a new track"/>

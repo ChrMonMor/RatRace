@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{692A83FA-9975-4839-B9DD-9134AB8C5919}</ProjectGuid>
+    <ProjectGuid>{8C78152B-E812-47F5-A8DD-0632C51DB850}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Maybe_Rat_Race</RootNamespace>
-    <AssemblyName>Maybe_Rat_Race</AssemblyName>
+    <RootNamespace>bibliotekDB_GUI</RootNamespace>
+    <AssemblyName>bibliotekDB_GUI</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -93,12 +93,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Rat_race\Rat_race\Rat_race\Rat_race.csproj">
-      <Project>{f95d8a9a-6fde-4e03-b4b0-d234bb0282c4}</Project>
-      <Name>Rat_race</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
