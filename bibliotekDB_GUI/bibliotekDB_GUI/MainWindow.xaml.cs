@@ -25,4 +25,5 @@ namespace bibliotekDB_GUI
             InitializeComponent();
         }
     }
+    // Data Source=DESKTOP-5GIERKE;Initial Catalog=bibliotekdb;Integrated Security=True
 }
