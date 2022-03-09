@@ -4,3 +4,13 @@ C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\Mai
 C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\App.g.cs
 C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI_MarkupCompile.cache
 C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI_MarkupCompile.lref
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\bin\Debug\bibliotekDB_GUI.exe.config
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\bin\Debug\bibliotekDB_GUI.exe
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\bin\Debug\bibliotekDB_GUI.pdb
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\MainWindow.baml
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.g.resources
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.Properties.Resources.resources
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.csproj.GenerateResource.cache
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.exe
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.pdb

@@ -54,5 +54,6 @@
         <Button Grid.Column="4" Grid.Row="1">
             
         </Button>
+        <DataGrid Grid.Row="2" Grid.Column="2" x:Name="ItemDataGrid" Grid.ColumnSpan="6" Grid.RowSpan="6"/>
     </Grid>
 </Window>
