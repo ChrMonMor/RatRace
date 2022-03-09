@@ -1,0 +1,6 @@
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\App.g.cs
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI_MarkupCompile.cache
+C:\Users\HFGF\source\repos\RatRace\bibliotekDB_GUI\bibliotekDB_GUI\obj\Debug\bibliotekDB_GUI_MarkupCompile.lref

@@ -55,6 +55,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Status.cs" />
+    <Compile Include="Users.cs" />
+    <Compile Include="Users_Lent_Items.cs" />
+    <Compile Include="Users_Reseved_Items.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -64,12 +68,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Items.cs" />
+    <Compile Include="Login.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Media.cs" />
+    <Compile Include="Outstanding.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
